@@ -21,10 +21,7 @@ return "done";
 }
 
 let integer = 10;
-function incrementVariable() {
-  i = i + 1;
-  return i;
-}
+function
 function doWhileLoop(integer) {
   let i = 0;
   do {
