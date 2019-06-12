@@ -24,8 +24,8 @@ let integer = 10;
 function doWhileLoop(integer) {
   let i = 0;
   do {
-    
     console.log("I run once regardless.");
+    i++;
   }while(i > incrementVariable(i));
 }
 
