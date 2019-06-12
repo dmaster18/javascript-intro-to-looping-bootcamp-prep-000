@@ -21,7 +21,6 @@ return "done";
 }
 
 let integer = 10;
-function
 function doWhileLoop(integer) {
   let i = 0;
   do {
